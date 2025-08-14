@@ -15,3 +15,11 @@ console.log(booleanIsLoggedIn)
 //1 => true 0=>false
 //'' => flse 
 //"deekshith" => true
+
+
+
+//**********************************Operations**************************
+let value = 5
+let negValue =-value
+
+console.log(negValue)
